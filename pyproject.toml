@@ -9,6 +9,7 @@ packages = [{include = "smart_home_automations"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 yeelight = "^0.7.10"
+python-miio = "^0.5.12"
 
 
 [build-system]
